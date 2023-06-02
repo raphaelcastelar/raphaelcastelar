@@ -1,7 +1,10 @@
 ### Olá, meu nome é Raphael Castelar 👋
 ![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(<a href="mailto:email@provedor.com.br?subject=Assunto do email&cc=copia@provedor.com.br&bcc=copiaoculta@provedor.com.br&body=Conteúdo do email que será preenchido automaticamente" target: _blank>Enviar email</a>)[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/raphael_castelar1/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-castelar/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raphaelcastelar&show_icons=true&theme=dracula)
+
+
+![Raphael Castelar GitHub status](https://github-readme-stats.vercel.app/api?username=raphaelcastelar&show_icons=true&theme=dracula)
 
 ## Tecnologias
 
