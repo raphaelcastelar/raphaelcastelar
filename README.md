@@ -16,6 +16,8 @@
   <img align="center" alt="sql" src="https://img.shields.io/badge/PL%2FSQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=FFFFFF&color=FF0000"/>
   <img align="center" alt="postgress" src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql"/>
   <img align="center" alt="firebase" src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=firebase&logoColor=ffca28"/>
+
+  
   <br>
  </div>
  
